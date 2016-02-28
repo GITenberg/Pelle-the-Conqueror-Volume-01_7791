@@ -1,0 +1,35 @@
+_repo: Pelle-the-Conqueror-Volume-01_7791
+contributor:
+  translator:
+    agent_name: Muir, Jessie
+    alias: Muir, J.
+    gutenberg_agent_id: '6340'
+    url: http://www.gutenberg.org/2009/agents/6340
+creator:
+  author:
+    agent_name: Andersen Nexø, Martin
+    aliases:
+    - Nexø, Martin Andersen
+    - Nekse, Martin Andersen
+    - Andersen, Martin
+    - Nexo, Martin Andersen
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '2530'
+    url: http://www.gutenberg.org/2009/agents/2530
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Andersen_Nexø
+description: ''
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Immigrants -- Denmark -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Fathers and sons -- Fiction'
+title: Pelle the Conqueror — Volume 01
+url: http://www.gutenberg.org/ebooks/7791
